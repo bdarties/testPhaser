@@ -1,2 +1,0 @@
-# testPhaser
-Created with CodeSandbox
